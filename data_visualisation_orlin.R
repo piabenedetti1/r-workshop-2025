@@ -24,7 +24,7 @@ ggcorr(iris) #correlation matrix
 ggcorr(iris, label = TRUE) #show the labels
 
 
-install.packages("tudyplots")
+install.packages("tidyplots")
 require(tidyplots)
 iris |>
   tidyplot(x=Species, y=Sepal.Width, colour = Species) #|>
@@ -71,3 +71,4 @@ grouped_gghistostats(iris, Sepal.Width, Species, bf.message = F)
 #more: https://indrajeetpatil.github.io/ggstatsplot/
 
 options(scipen=999)
+
