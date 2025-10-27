@@ -12,7 +12,13 @@ This repository contains all materials used in the live workshop. You’ll find 
 | **iris_messy.xlsx** | The messy dataset used for the data cleaning exercises. |
 | **cleaning_script_dplyr.R** | The “tidyverse” version of the solutions using the `dplyr` package (modern, readable R code). |
 | **cleaning_script_base.R** | The “base R” version of the same solutions, showing how to do everything without external packages. |
-| **workshop_recording.mp4** | A recording of the live workshop session. |
+| **data_visualisation_orlin.R** | Script from Orlin’s segment demonstrating different R packages for data visualisation. |
+
+---
+
+## Workshop Recording
+
+You can watch the recording [here](https://universitytasmania-my.sharepoint.com/:v:/g/personal/pia_benedettivallenari_utas_edu_au/EZdpEatx3atIglKwXsTqWlsBEuLNp2CqdV-Wyjd9RF5SuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S1v9Ac) *(Requires University of Tasmania login)*
 
 ---
 
