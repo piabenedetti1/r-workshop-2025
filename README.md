@@ -39,6 +39,8 @@ Two versions of the cleaning script are provided so you can compare coding style
 - **base R version** – Uses only built-in R functions. This version is helpful for understanding R’s foundations and does not require any additional packages.
 
 Both versions perform the same tasks.
+If you are completely new to R, start with the **base R version** (it’s simpler to run and doesn’t require installing extra packages).
+
 ---
 
 ## Acknowledgements
