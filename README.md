@@ -51,5 +51,5 @@ If you are completely new to R, start with the **base R version** (it’s simple
 
 ## Acknowledgements
 
-Workshop prepared by Pia Benedetti and Orlin S. Todorov 
+Workshop prepared by Pia Benedetti and Orlin S. Todorov.  
 Tasmanian Institute of Agriculture (TIA), University of Tasmania
